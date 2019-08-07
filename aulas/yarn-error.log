@@ -1,0 +1,36 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Program Files (x86)\Yarn\bin\yarn.js init
+
+PATH: 
+  C:\Users\dcemvasconcellos\Programas_Sem_Instalacao\cmder\bin;C:\Users\dcemvasconcellos\Programas_Sem_Instalacao\cmder\vendor\bin;C:\Users\dcemvasconcellos\Programas_Sem_Instalacao\cmder\vendor\conemu-maximus5\ConEmu\Scripts;C:\Users\dcemvasconcellos\Programas_Sem_Instalacao\cmder\vendor\conemu-maximus5;C:\Users\dcemvasconcellos\Programas_Sem_Instalacao\cmder\vendor\conemu-maximus5\ConEmu;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Users\dcemvasconcellos\Programas_Sem_Instalacao\openjdk-11.0.1_windows-x64_bin\jdk-11.0.1\bin;C:\orant\bin;C:\oracle\app\client\dcemvasconcellos\product\12.1.0\client_1\bin;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\oracle\app\client\dcemvasconcellos\product\12.1.0\client_1;C:\Program Files\MicroStrategy\Desktop\DataServices\180_77\64-bit\bin\server;C:\orant\jdk\bin;C:\Users\dcemvasconcellos\command;C:\xampp\php;C:\composer;C:\Users\dcemvasconcellos\XAMPP\php;C:\ProgramData\chocolatey\bin;C:\Program Files\nodejs\;C:\Program Files (x86)\Yarn\bin\;C:\Program Files\Git\cmd;C:\Users\dcemvasconcellos\AppData\Local\Programs\Python\Python37-32\Scripts\;C:\Users\dcemvasconcellos\AppData\Local\Programs\Python\Python37-32\;C:\xampp\php;C:\Users\dcemvasconcellos\AppData\Roaming\Composer\vendor\bin;C:\Users\dcemvasconcellos\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\dcemvasconcellos\AppData\Roaming\npm;C:\Users\dcemvasconcellos\AppData\Local\Yarn\bin;C:\Program Files\Git\cmd;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\dcemvasconcellos\Programas_Sem_Instalacao\cmder
+
+Yarn version: 
+  1.16.0
+
+Node version: 
+  12.4.0
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: canceled
+      at Interface.<anonymous> (C:\Program Files (x86)\Yarn\lib\cli.js:125850:13)
+      at Interface.emit (events.js:200:13)
+      at Interface._ttyWrite (readline.js:877:16)
+      at ReadStream.onkeypress (readline.js:189:10)
+      at ReadStream.emit (events.js:200:13)
+      at emitKeys (internal/readline.js:424:14)
+      at emitKeys.next (<anonymous>)
+      at ReadStream.onData (readline.js:1145:36)
+      at ReadStream.emit (events.js:200:13)
+      at addChunk (_stream_readable.js:294:12)
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
